@@ -166,12 +166,13 @@ margin-bottom: 20px;
 .ten-years-badge
 {
     border-radius: 8px;
-background: #FF900E;
-color: #FFF;
-width: 342px;
-padding: 40px;
-position: relative;
-bottom: 100px;
+    background: #FF900E;
+    color: #FFF;
+    width: 340px;
+    padding: 40px;
+    text-align: center;
+    position: relative;
+    bottom: 100px;
 }
 
 
@@ -184,7 +185,7 @@ bottom: 100px;
 .ten-years-badge p
 {
     font-size: 1.5rem;
-    text-align: center;
+    
 }
 /* facts styles */
 
